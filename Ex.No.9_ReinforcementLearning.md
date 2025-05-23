@@ -1,6 +1,6 @@
 # Ex.No: 9  Implementation of Simple Reinforcement Learning                                                                          
-### NAME : VINODINI R
-### REGISTER NUMBER : 212223040244
+### NAME : ALLEN JOVETH P
+### REGISTER NUMBER : 212223240007
 ### AIM: 
 To write a program to implement  Reinforcement learning  in Unity 
 ### Algorithm:
