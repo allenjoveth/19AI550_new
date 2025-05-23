@@ -96,9 +96,10 @@ public class Score : MonoBehaviour
 ```
 
 ## OUTPUT:
-![alt text](starting_output.jpg)
 
-![alt text](ending_output.jpg)
+![starting_output](https://github.com/user-attachments/assets/4c084316-2491-4c55-8c5b-ea87d111882f)
+
+![ending_output](https://github.com/user-attachments/assets/76049bb3-29ef-4c38-a95d-e47e6c62c44a)
 
 ## RESULT:
 
