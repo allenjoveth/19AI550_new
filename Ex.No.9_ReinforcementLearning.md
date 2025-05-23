@@ -6,18 +6,29 @@ To write a program to implement  Reinforcement learning  in Unity
 ### Algorithm:
 
 1.Create a new 3D Unity project
+
 2.Create a plane → Right-click Hierarchy > 3D Object > Plane
+
 3.Create an Agent (Cube)
+
 4.3D Object → Cube → Rename to Agent
+
 5. Add Rigidbody (disable gravity if needed)
+
 6. Create a Target (Sphere)
+   
 7.3D Object → Sphere → Rename to Target
+   
 8.Create an empty GameObject → Area (to reset Agent and Target positions)
+
 9.Add the Behavior Parameters component to your Agent
+
 10.Behavior Name: MoveToTarget
+
 11. Vector Observation: 7 (3 for agent pos + 3 for target pos + 1 for velocity), 
 Action Space: Continuous (2)
-12. run the command 
+
+13. run the command 
 mlagents-learn config.yaml --run-id=move-to-target --train
 
 ### Program:
