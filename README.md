@@ -1,4 +1,6 @@
-# Ex3---Hurdle-Game-2D
+# Ex.No: 10 Implementation of 2D/3D game 
+
+## REGISTER NUMBER : 212223240007
 
 ## AIM:
 To develop a 2D game using C# program in unity .
